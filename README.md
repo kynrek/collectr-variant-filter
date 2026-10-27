@@ -22,6 +22,11 @@ Cards with no variant label (such as sealed products) are grouped under **Other 
 
 Tampermonkey checks this repo for updates automatically.
 
+You can also install it from a userscript site:
+
+- [Greasy Fork](https://greasyfork.org/en/scripts/602507-collectr-card-variant-filter)
+- [OpenUserJS](https://openuserjs.org/scripts/kynrek/Collectr_%E2%80%93_Card_Variant_Filter)
+
 ## Settings
 
 At the top of the script (Tampermonkey dashboard → the script → Edit):
