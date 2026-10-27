@@ -16,7 +16,7 @@ Cards with no variant label (such as sealed products) are grouped under **Other 
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser.
 2. Click the install link:
-   **[collectr-variant-filter.user.js](https://raw.githubusercontent.com/kynrek/collectr-variant-filter/main/collectr-variant-filter.user.js)**
+   **[collectr-variant-filter.user.js](https://raw.githubusercontent.com/kynrek/collectr-variant-filter/master/collectr-variant-filter.user.js)**
 3. Tampermonkey opens an install page. Click **Install**.
 4. Open or reload <https://app.getcollectr.com/>.
 
