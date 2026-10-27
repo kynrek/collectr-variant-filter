@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Collectr – Card Variant Filter
 // @namespace    https://rewindink.com/
-// @version      3.0
+// @version      3.1
 // @description  Filter Collectr card lists by variant (Holofoil, Reverse Holofoil, Normal, etc.) with a banner and a floating multi-select dropdown.
+// @license      MIT
 // @match        https://app.getcollectr.com/*
 // @grant        none
 // @run-at       document-idle
